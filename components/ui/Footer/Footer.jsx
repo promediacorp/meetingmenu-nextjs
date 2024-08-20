@@ -8,7 +8,7 @@ const Footer = () => {
                     <p className="text-gray-400 text-center">© 2024 MeetingMenu. All rights reserved.</p>
                     <div className="flex items-center justify-center gap-x-6 text-gray-500 mt-6 sm:mt-0">
                         <Link href="/privacy" passHref>
-                            <a className="hover:text-gray-200 duration-150">Privacy Policy</a>
+                            <a className="hover:text-gray-200 duration-150">Privacy</a>
                         </Link>
                         <Link href="/support" passHref>
                             <a className="hover:text-gray-200 duration-150">Support</a>
@@ -17,7 +17,7 @@ const Footer = () => {
                             <a className="hover:text-gray-200 duration-150">Help</a>
                         </Link>
                         <Link href="/terms" passHref>
-                            <a className="hover:text-gray-200 duration-150">Terms of Service</a>
+                            <a className="hover:text-gray-200 duration-150">Terms</a>
                         </Link>
                     </div>
                 </div>

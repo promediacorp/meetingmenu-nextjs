@@ -17,7 +17,7 @@ export default function Privacy() {
   return (
     <>
       <Head>
-        <title>Privacy Policy - Meeting Menu</title>
+        <title>Privacy Policy - MeetingMenu</title>
       </Head>
       <main className="w-full px-4 py-10">
         <div className="max-w-4xl mx-auto text-gray-300">
@@ -25,14 +25,14 @@ export default function Privacy() {
           <h1 className="text-white text-3xl font-bold mb-6">Privacy Policy</h1>
           <div className="space-y-6 text-gray-400">
             <p>
-              This Privacy Policy describes how Meeting Menu ("we", "our", "us") 
+              This Privacy Policy describes how MeetingMenu ("we", "our", "us") 
               collects, uses, and shares information in connection with our Mac 
               application ("the app"). By using the app, you agree to the terms 
               outlined in this Privacy Policy.
             </p>
             <h2 className="text-2xl font-bold text-white">1. Data Collection</h2>
             <p>
-              <strong>Personal Data:</strong> Meeting Menu does not collect, store, 
+              <strong>Personal Data:</strong> MeetingMenu does not collect, store, 
               or transmit any personal data from users. We do not track usage or 
               gather any information about you through the app.
             </p>
@@ -50,7 +50,7 @@ export default function Privacy() {
             </p>
             <h2 className="text-2xl font-bold text-white">3. Third-Party Services</h2>
             <p>
-              Meeting Menu does not integrate with third-party services that 
+              MeetingMenu does not integrate with third-party services that 
               collect or share personal data.
             </p>
             <h2 className="text-2xl font-bold text-white">4. User Rights</h2>

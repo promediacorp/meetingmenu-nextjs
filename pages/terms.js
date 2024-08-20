@@ -6,7 +6,7 @@ export default function TermsOfService() {
   return (
     <>
       <Head>
-        <title>Terms of Service - Meeting Menu</title>
+        <title>Terms of Service - MeetingMenu</title>
       </Head>
       <main className="w-full px-4 py-10">
         <div className="max-w-4xl mx-auto text-gray-300">
@@ -14,7 +14,7 @@ export default function TermsOfService() {
           <h1 className="text-white text-3xl font-bold mb-6">Terms of Service</h1>
           <div className="space-y-6 text-gray-400">
             <p>
-              These Terms of Service ("Terms") govern your use of the Meeting Menu app ("the app") provided by Meeting Menu Inc. ("we", "our", "us"). By using the app, you agree to be bound by these Terms.
+              These Terms of Service ("Terms") govern your use of the MeetingMenu app ("the app") provided by MeetingMenu Inc. ("we", "our", "us"). By using the app, you agree to be bound by these Terms.
             </p>
 
             <h2 className="text-2xl font-bold text-white">1. Use of the App</h2>
@@ -54,7 +54,7 @@ export default function TermsOfService() {
 
             <h2 className="text-2xl font-bold text-white">7. Limitation of Liability</h2>
             <p>
-              In no event shall Meeting Menu Inc., its directors, employees, or agents, be liable for any indirect, incidental, special, consequential, or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from your use of the app.
+              In no event shall MeetingMenu Inc., its directors, employees, or agents, be liable for any indirect, incidental, special, consequential, or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from your use of the app.
             </p>
 
             <h2 className="text-2xl font-bold text-white">8. Governing Law</h2>

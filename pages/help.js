@@ -6,7 +6,7 @@ export default function Help() {
   return (
     <>
       <Head>
-        <title>Help - Meeting Menu</title>
+        <title>Help - MeetingMenu</title>
       </Head>
       <main className="w-full px-4 py-10">
         <div className="max-w-4xl mx-auto text-gray-300">
@@ -21,23 +21,23 @@ export default function Help() {
 
             <div className="space-y-4">
               <div>
-                <h3 className="text-xl font-semibold text-white">How do I use the Meeting Menu app?</h3>
+                <h3 className="text-xl font-semibold text-white">How do I use the MeetingMenu app?</h3>
                 <p>
-                  Meeting Menu is designed to help you focus during meetings by managing various desktop settings automatically. Once installed, you can customize your settings through the app's preferences and start using it to streamline your meeting experience.
+                  MeetingMenu is designed to help you focus during meetings by managing various desktop settings automatically. Once installed, you can customize your settings through the app's preferences and start using it to streamline your meeting experience.
                 </p>
               </div>
 
               <div>
-                <h3 className="text-xl font-semibold text-white">What features does Meeting Menu offer?</h3>
+                <h3 className="text-xl font-semibold text-white">What features does MeetingMenu offer?</h3>
                 <p>
-                  Meeting Menu offers features like hiding desktop icons, enabling Do Not Disturb, adjusting brightness, and managing audio settings. These can all be configured to activate automatically when you start a meeting.
+                  MeetingMenu offers features like hiding desktop icons, enabling Do Not Disturb, adjusting brightness, and managing audio settings. These can all be configured to activate automatically when you start a meeting.
                 </p>
               </div>
 
               <div>
                 <h3 className="text-xl font-semibold text-white">Is my data safe?</h3>
                 <p>
-                  Yes, your data is safe. Meeting Menu does not collect, store, or transmit any personal data. The app operates locally on your device and does not require an internet connection to function.
+                  Yes, your data is safe. MeetingMenu does not collect, store, or transmit any personal data. The app operates locally on your device and does not require an internet connection to function.
                 </p>
               </div>
 
