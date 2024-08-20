@@ -7,17 +7,17 @@ const Footer = () => {
                 <div className="mt-10 py-8 border-t border-gray-800 items-center justify-between sm:flex">
                     <p className="text-gray-400 text-center">© 2024 MeetingMenu. All rights reserved.</p>
                     <div className="flex items-center justify-center gap-x-6 text-gray-500 mt-6 sm:mt-0">
-                        <Link href="/privacy" passHref>
-                            <a className="hover:text-gray-200 duration-150">Privacy</a>
+                        <Link href="/privacy" className="hover:text-gray-200 duration-150">
+                            Privacy
                         </Link>
-                        <Link href="/support" passHref>
-                            <a className="hover:text-gray-200 duration-150">Support</a>
+                        <Link href="/support" className="hover:text-gray-200 duration-150">
+                            Support
                         </Link>
-                        <Link href="/help" passHref>
-                            <a className="hover:text-gray-200 duration-150">Help</a>
+                        <Link href="/help" className="hover:text-gray-200 duration-150">
+                            Help
                         </Link>
-                        <Link href="/terms" passHref>
-                            <a className="hover:text-gray-200 duration-150">Terms</a>
+                        <Link href="/terms" className="hover:text-gray-200 duration-150">
+                            Terms
                         </Link>
                     </div>
                 </div>
