@@ -51,10 +51,35 @@ export default function Privacy() {
             <h2 className="text-2xl font-bold text-white">3. Screen Recording Data</h2>
             <p>
               The MeetingMenu app includes a feature that allows users to record their 
-              screen during meetings. This data is stored locally on the user's device 
-              and is not collected, shared, or transmitted to any external servers or 
-              third parties. We do not have access to, collect, or share any screen 
-              recording data.
+              screen during meetings. Below, we outline how this data is handled:
+            </p>
+            <p>
+              <strong>Collection:</strong> The screen recording data is not collected 
+              by MeetingMenu. The data is captured locally on the user's device 
+              during the recording process and is not transmitted to our servers 
+              or any third party.
+            </p>
+            <p>
+              <strong>Use:</strong> The screen recordings are for the user’s personal 
+              use only. MeetingMenu does not access, analyze, or use the content 
+              of these recordings in any way.
+            </p>
+            <p>
+              <strong>Disclosure and Sharing:</strong> The screen recording data is stored 
+              solely on the user's device. We do not have access to this data, and 
+              it is never shared with any third parties.
+            </p>
+            <p>
+              <strong>Retention:</strong> Since MeetingMenu does not collect or store 
+              screen recording data, retention of this data is entirely controlled 
+              by the user. The user may choose to delete or retain their recordings 
+              as they see fit.
+            </p>
+            <p>
+              <strong>Security:</strong> The security of screen recording data is managed 
+              by the user, as it resides only on their device. MeetingMenu does not 
+              interact with or secure this data, as it is not transmitted or stored 
+              outside the user’s device.
             </p>
             <h2 className="text-2xl font-bold text-white">4. Third-Party Services</h2>
             <p>
