@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@formspree/react": "^2.5.1",
     "@heroicons/react": "^1.0.6",
     "@next/font": "13.1.6",
     "eslint": "8.33.0",
