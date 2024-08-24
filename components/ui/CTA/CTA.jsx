@@ -35,7 +35,7 @@ const CTA = () => (
                         </div>
                         <div className="mt-5 flex justify-center font-medium text-sm">
                             <NavLink
-                                href="/#pricing"
+                                href="https://apps.apple.com/us/app/meetingmenu/id6538714770"
                                 className="flex items-center text-white bg-purple-600 hover:bg-purple-500 active:bg-purple-700"
                             >
                                 Download Now

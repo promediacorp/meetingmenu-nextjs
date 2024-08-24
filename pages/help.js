@@ -28,10 +28,21 @@ export default function Help() {
               </div>
 
               <div>
-                <h3 className="text-xl font-semibold text-white">What features does MeetingMenu offer?</h3>
+                <h3 className="text-xl font-semibold text-white">What apps does MeetingMenu support?</h3>
                 <p>
-                  MeetingMenu offers features like hiding desktop icons, enabling Do Not Disturb, adjusting brightness, and managing audio settings. These can all be configured to activate automatically when you start a meeting.
+                  MeetingMenu supports a variety of popular meeting and communication apps, including:
                 </p>
+                <ul className="list-disc list-inside ml-4">
+                  <li>Zoom</li>
+                  <li>Microsoft Teams</li>
+                  <li>Google Meet</li>
+                  <li>Slack</li>
+                  <li>Webex</li>
+                  <li>Skype</li>
+                  <li>GoToMeeting</li>
+                  <li>BlueJeans</li>
+                  <li>Jitsi Meet</li>
+                </ul>
               </div>
 
               <div>
@@ -45,6 +56,20 @@ export default function Help() {
                 <h3 className="text-xl font-semibold text-white">How do I get support?</h3>
                 <p>
                   If you need help or have any questions, you can reach out to us through our <Link href="/support" className="text-purple-500 hover:text-purple-600">Support page</Link>. We're here to help!
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-semibold text-white">How do I get my money back?</h3>
+                <p>
+                  We offer a 30-day money-back guarantee. To request a refund, please <Link href="/support" className="text-purple-500 hover:text-purple-600">contact support</Link>, fill out the form, and include your receipt number for the Apple Store purchase. We will process your refund within 7 days of purchase.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-semibold text-white">What are the system requirements?</h3>
+                <p>
+                  MeetingMenu requires macOS 12.0 or greater, including macOS 12 and Sonoma. The app is compatible with both Intel and Apple Silicon chips.
                 </p>
               </div>
             </div>

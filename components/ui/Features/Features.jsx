@@ -61,7 +61,7 @@ const Features = () => {
         {
             icon: <MicrophoneIcon className="w-6 h-6" />,
             title: "Control Microphone Volume",
-            desc: "Easily control your microphone volume and easily mute to ensure you're always heard clearly."
+            desc: "Control your microphone volume and easily mute to ensure you're always heard clearly."
         }
     ]
 

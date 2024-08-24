@@ -31,7 +31,7 @@ const Hero = () => (
                             Manage, organize, and execute perfect meetings effortlessly, right from your Mac menu bar.                        
                         </p>
                         <div className="flex justify-center font-medium text-sm mt-0"> {/* Reduced margin-top by half */}
-                            <NavLink href="/mac-download">
+                            <NavLink href="https://apps.apple.com/us/app/meetingmenu/id6538714770">
                                 <Image
                                     src={MacDownloadLogo}
                                     width={150}
