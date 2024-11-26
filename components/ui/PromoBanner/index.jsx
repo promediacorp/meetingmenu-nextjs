@@ -9,7 +9,7 @@ const PROMO_CONFIG = [
     endDate: '2024-12-03',
     message: {
       highlight: 'Black Friday & Cyber Monday Sale!',
-      details: 'Get 50% OFF Until 12/3 - Limited Time Offer! 🎉'
+      details: 'Get 60% OFF Until 12/3 - Limited Time Offer! 🎉'
     },
     bgColor: 'bg-black'
   },
