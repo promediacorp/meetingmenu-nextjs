@@ -4,24 +4,14 @@ import { useState, useEffect } from 'react'
 // Promotional periods configuration
 const PROMO_CONFIG = [
   {
-    id: 'black-friday-2024',
-    startDate: '2024-11-24', // Black Friday period
-    endDate: '2024-12-03',
+    id: 'black-friday-2025',
+    startDate: '2025-11-13',
+    endDate: '2025-12-01',
     message: {
-      highlight: 'Black Friday & Cyber Monday Sale!',
-      details: 'Get 60% OFF Until 12/3 - Limited Time Offer! 🎉'
+      highlight: 'Black Friday Sale!',
+      details: '50% OFF Until Dec 1 🎉'
     },
     bgColor: 'bg-black'
-  },
-  {
-    id: 'winter-sale-2024',
-    startDate: '2024-12-04',
-    endDate: '2024-12-31',
-    message: {
-      highlight: 'End of Year Sale!',
-      details: 'Save 50% OFF ❄️'
-    },
-    bgColor: 'bg-blue-600'
   },
   // Add more promotional periods as needed
   {
